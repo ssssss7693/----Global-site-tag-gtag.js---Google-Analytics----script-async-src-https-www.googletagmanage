@@ -1,0 +1,2 @@
+# ----Global-site-tag-gtag.js---Google-Analytics----script-async-src-https-www.googletagmanage
+&lt;!-- Global site tag (gtag.js) - Google Analytics --> &lt;script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID">&lt;/script> &lt;script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'GA_MEASUREMENT_ID'); &lt;/script>
